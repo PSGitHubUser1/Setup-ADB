@@ -1,8 +1,8 @@
-## $ Requirements
+## $ ⛔Requirements⛔
 - Android 11+
 - API level 31+
 
-## $ setup-adb
+## $ 🔧setup-adb🔧
 
 - Firstly open:
  > Settings > Search on top > About Phone / About your Phone > Tap on *Build* (eg. MIUI) version for 7-8 times. And you will become a developer. 
