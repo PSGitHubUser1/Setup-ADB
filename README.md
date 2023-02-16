@@ -1,6 +1,6 @@
 ## $ ⛔Requirements⛔
-- Android 11+
-- API level 31+
+- Android 11 or later (+)
+- API level 31 or later (+)
 
 ## $ 🔧setup-adb🔧
 
@@ -14,3 +14,30 @@
 - Download the Platform Tools file from [here](https://developer.android.com/studio/releases/platform-tools) for Windows.
 - Extract it and open the folder
 - Now follow this
+---
+https://user-images.githubusercontent.com/90406016/219314065-d3c02295-403a-41f2-99d7-1ec839953ab6.mp4
+
+---
+- Type this
+```cmd
+adb devices
+```
+- If it shows some Alphabets and numbers under 'List' (like AFG485GT..) then your phone is sucessfully connected to PC already.
+- Finally you can run any command. Which you want to run. 
+
+## Here's an example
+In **`Android 12`** version, [Specifically, POCO phones] have a green coloured icon of camera & mic on Status Bar at the top of screen whenever you use your mic/camera. Which looks nice at first but not forever. here's an img where the camera is being used and this icon occurs:
+
+![File](https://user-images.githubusercontent.com/90406016/219318411-77ba8622-17ed-4038-9b3f-79b843a44b65.png)
+
+- To remove the green icon, you can run this `Android 12`: 
+```cmd
+adb shell cmd device_config put privacy camera_mic_icons_enabled false default
+```
+- To revert back [Enable it again]:
+```cmd
+adb shell cmd device_config put privacy camera_mic_icons_enabled true default
+```
+
+
+
