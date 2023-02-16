@@ -39,5 +39,7 @@ adb shell cmd device_config put privacy camera_mic_icons_enabled false default
 adb shell cmd device_config put privacy camera_mic_icons_enabled true default
 ```
 
+### This is how you can setup the `adb`
+
 
 
