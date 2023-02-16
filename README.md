@@ -1,11 +1,11 @@
-## $ ⛔Requirements⛔
+## * ⛔Requirements⛔
 - Android 11 or later (+)
 - API level 31 or later (+)
 - A PC / Laptop with Windows 7 or later (+)
 
 ## $ 🔧setup-adb🔧
 
-- Firstly open:
+- First open:
  > Settings > Search on top > About Phone / About your Phone > Tap on *Build* (eg. MIUI) version for 7-8 times. And you will become a developer. 
 - Go back and search `Developer options` or Scroll down and tap on Additional settings > Developer options
 - Click on it and scroll down to turn on `USB debugging` not the `USB debugging (Security settings)`
