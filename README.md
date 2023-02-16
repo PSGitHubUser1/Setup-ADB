@@ -1,6 +1,7 @@
 ## $ ⛔Requirements⛔
 - Android 11 or later (+)
 - API level 31 or later (+)
+- A PC / Laptop with Windows 7+
 
 ## $ 🔧setup-adb🔧
 
