@@ -3,6 +3,11 @@
 - API level 31 or later (+)
 - A PC / Laptop with Windows 7 or later (+)
 
+## # Download 
+- Windows:  [platform-tools_r34.0.5-windows.zip](https://github.com/PSGitHubUser1/setup-adb-windows/files/13843910/platform-tools_r34.0.5-windows.zip)
+- MacOS:    [platform-tools_r34.0.5-darwin.zip](https://github.com/PSGitHubUser1/setup-adb-windows/files/13843917/platform-tools_r34.0.5-darwin.zip)
+- Linux:    [platform-tools_r34.0.5-linux.zip](https://github.com/PSGitHubUser1/setup-adb-windows/files/13843936/platform-tools_r34.0.5-linux.zip)
+
 ## $ 🔧setup-adb🔧
 
 - First open:
@@ -12,7 +17,7 @@
 - Check all things and turn it on.
 - And also turn on `Install via USB` (optional)
 - Connect your mobile with PC. (Here, I am telling about Windows)
-- Download the Platform Tools file from [here](https://developer.android.com/studio/releases/platform-tools) for Windows.
+- Download the Platform Tools file from website [here](https://developer.android.com/studio/releases/platform-tools).
 - Extract it and open the folder
 - Now follow this
 ---
